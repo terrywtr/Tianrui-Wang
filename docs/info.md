@@ -8,11 +8,11 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
+NOT,XOR gates are connected with a,b,c,d e,f,g
 Explain how your project works
 
 ## How to test
-
+set the clock into 10khz
 Explain how to use your project
 
 ## External hardware
